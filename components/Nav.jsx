@@ -1,6 +1,6 @@
 "use client";
 
-import Link from 'next/link' // Link is a component that allows you to link to other pages in your app
+import Link from 'next/link'
 import Image from 'next/image' // Image is a component that allows you to display images
 import { useState, useEffect } from 'react'
 import {signIn ,useSession, getProviders, signOut} from 'next-auth/react'
