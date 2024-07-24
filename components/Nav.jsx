@@ -32,7 +32,7 @@ return (
                 alt='Prompto Logo' 
                 className='object-contain'
                 />
-                <p className='logo_text'>Prompto</p>
+                <p className='logo_text'>Promptify</p>
         </Link>
 
         {/* {Desktop view} */}
